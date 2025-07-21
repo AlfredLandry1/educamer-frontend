@@ -30,7 +30,7 @@ export default function LandingHero() {
         </p>
         {/* CTA */}
         <Button size="lg" asChild className="shadow-xl px-8 py-4 text-lg rounded-full transition-all duration-200 hover:scale-105 hover:shadow-2xl focus-visible:ring-2 focus-visible:ring-primary-600">
-          <a href="/register">Essayez gratuitement</a>
+          <a href="/dashboard">Essayez gratuitement</a>
         </Button>
       </motion.div>
     </section>
